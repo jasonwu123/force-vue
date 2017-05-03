@@ -1,5 +1,5 @@
 # force-vue
-
+ 
 > Vue application with [SWAPI](http://swapi.co/) integration
 
 ## Build and Deployment Information
